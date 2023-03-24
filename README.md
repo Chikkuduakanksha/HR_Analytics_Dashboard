@@ -15,5 +15,10 @@ The visualizations I've created use a combination of charts and graphs that are 
 
 - All of my projects are available at [Projects](https://github.com/Chikkuduakanksha?tab=repositories)
 
+
+Public [Tableau](https://public.tableau.com/app/profile/akanksha.chikkudu/viz/HRAnalyticsDashboard_16786107323000/HRANALYTICSDASHBOARD)
+
 <p>&nbsp;</p>
+
+
 **HAPPY LEARNING**
